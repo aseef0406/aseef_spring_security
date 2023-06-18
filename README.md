@@ -49,7 +49,7 @@ Currently Logged in User
     - Group of Authorities
     - Roles are coarse-grained
 
-## Spring Securities Default Behaviour
+## Spring Security Default Behaviour
     - Adds mandatory authentication for urls
     - Adds login form
     - Handles login form
