@@ -48,8 +48,3 @@ Currently Logged in User
 ## Role
     - Group of Authorities
     - Roles are coarse-grained
-
-## Spring Securities Default Behaviour
-    - Adds mandatory authentication for urls
-    - Adds login form
-    - Handles login form
