@@ -53,3 +53,4 @@ Currently Logged in User
     - Adds mandatory authentication for urls
     - Adds login form
     - Handles login form
+    - Creates user "user" and sets a default password
