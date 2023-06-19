@@ -54,3 +54,8 @@ Currently Logged in User
     - Adds login form
     - Handles login form
     - Creates user "user" and sets a default password
+
+## Authentication Manager
+
+step 1: Get the hold of authentication manager builder
+step 2: Set the configuration on it
